@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 //Stateless component.
 const NewSingle = ({item}) => (
     <li>
